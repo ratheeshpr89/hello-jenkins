@@ -1,0 +1,5 @@
+#!/bin/sh
+ 
+cd /var/www/html/hello-jenkins/node_modules/.bin/
+
+mocha ../../test/test.js

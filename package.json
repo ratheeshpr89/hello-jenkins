@@ -1,0 +1,24 @@
+{
+  "name": "hello-jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratheeshpr89/hello-jenkins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ratheeshpr89/hello-jenkins/issues"
+  },
+  "homepage": "https://github.com/ratheeshpr89/hello-jenkins#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "supertest": "^4.0.2"
+  }
+}
